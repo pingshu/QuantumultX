@@ -27,7 +27,7 @@ surge:本地
 
 圈x:本地
 签到获取ck
-^https:\/\/operation-api\.jimistore\.com\/* url script-request-body https://github.com/pingshu/QuantumultX/raw/master/ttwbxcxSign.js
+^https:\/\/operation-api\.jimistore\.com\/* url script-request-body https://raw.githubusercontent.com/pingshu/QuantumultX/master/ttwbxcxSign.js
 
 
 
